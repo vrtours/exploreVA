@@ -1,7 +1,7 @@
 // Garden Gnome Software - Skin
 // Pano2VR 6.1.8/17956
 // Filename: simplex_mod_2_simplified.ggsk
-// Generated 2020-08-13T23:41:34
+// Generated 2020-08-14T08:40:45
 
 function pano2vrSkin(player,base) {
 	player.addVariable('opt_hotspot_preview', 2, true);
@@ -9353,7 +9353,8 @@ function pano2vrSkin(player,base) {
 		el=me._info=document.createElement('div');
 		els=me._info__img=document.createElement('img');
 		els.className='ggskin ggskin_svg';
-		me._info__img.setAttribute('src',basePath + 'images/info.svg');
+		hs='data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGZpbGw9IiNmZmZmZmYiIGhlaWdodD0iMzZweCIgZmlsbC1vcGFjaXR5PSIxIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIzNnB4Ij4KIDxwYXRoIGZpbGw9Im5vbmUiIGQ9Ik0wIDBoMjR2MjRIMHoiLz4KIDxwYXRoIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0xIDE1aC0ydi02aDJ2NnptMC04aC0yVjdoMnYyeiIvPgo8L3N2Zz4K';
+		me._info__img.setAttribute('src',hs);
 		els.setAttribute('style','position: absolute;top: 0px;left: 0px;width: 100%;height: 100%;-webkit-user-drag:none;pointer-events:none;;');
 		els['ondragstart']=function() { return false; };
 		el.appendChild(els);
@@ -13031,7 +13032,8 @@ pano.setVariableValue("random_ad", randomNumber+1)
 		el=me._sound_down=document.createElement('div');
 		els=me._sound_down__img=document.createElement('img');
 		els.className='ggskin ggskin_svg';
-		me._sound_down__img.setAttribute('src',basePath + 'images/sound_down.svg');
+		hs='data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGZpbGw9IndoaXRlIiBoZWlnaHQ9IjE4cHgiIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjE4cHgiPgogPHBhdGggZmlsbD0ibm9uZSIgZD0iTTAgMGgyNHYyNEgweiIvPgogPHBhdGggZD0iTTE4LjUgMTJjMC0xLjc3LTEuMDItMy4yOS0yLjUtNC4wM3Y4LjA1YzEuNDgtLjczIDIuNS0yLjI1IDIuNS00LjAyek01IDl2Nmg0bDUgNVY0TDkgOUg1eiIvPgo8L3N2Zz4K';
+		me._sound_down__img.setAttribute('src',hs);
 		els.setAttribute('style','position: absolute;top: 0px;left: 0px;width: 100%;height: 100%;-webkit-user-drag:none;pointer-events:none;;');
 		els['ondragstart']=function() { return false; };
 		el.appendChild(els);
@@ -15062,7 +15064,8 @@ pano.setVariableValue("random_ad", randomNumber+1)
 		el=me._sound_off=document.createElement('div');
 		els=me._sound_off__img=document.createElement('img');
 		els.className='ggskin ggskin_svg';
-		me._sound_off__img.setAttribute('src',basePath + 'images/sound_off.svg');
+		hs='data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGZpbGw9IndoaXRlIiBoZWlnaHQ9IjE4cHgiIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjE4cHgiPgogPHBhdGggZmlsbD0ibm9uZSIgZD0iTTAgMGgyNHYyNEgweiIvPgogPHBhdGggZD0iTTggNXYxNGwxMS03eiIvPgo8L3N2Zz4K';
+		me._sound_off__img.setAttribute('src',hs);
 		els.setAttribute('style','position: absolute;top: 0px;left: 0px;width: 100%;height: 100%;-webkit-user-drag:none;pointer-events:none;;');
 		els['ondragstart']=function() { return false; };
 		el.appendChild(els);
@@ -23849,7 +23852,8 @@ pano.setVariableValue("random_ad", randomNumber+1)
 		el=me._ht_info_image1=document.createElement('div');
 		els=me._ht_info_image1__img=document.createElement('img');
 		els.className='ggskin ggskin_svg';
-		me._ht_info_image1__img.setAttribute('src',basePath + 'images/ht_info_image1.svg');
+		hs='data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGZpbGw9IndoaXRlIiBoZWlnaHQ9IjM2cHgiIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjM2cHgiPgogPHBhdGggZmlsbD0ibm9uZSIgZD0iTTAgMGgyNHYyNEgweiIvPgogPHBhdGggZD0iTTEyIDJDNi40OCAyIDIgNi40OCAyIDEyczQuNDggMTAgMTAgMTAgMTAtNC40OCAxMC0xMFMxNy41MiAyIDEyIDJ6bTEgMTVoLTJ2LTZoMnY2em0wLThoLTJWN2gydjJ6Ii8+Cjwvc3ZnPgo=';
+		me._ht_info_image1__img.setAttribute('src',hs);
 		els.setAttribute('style','position: absolute;top: 0px;left: 0px;width: 100%;height: 100%;-webkit-user-drag:none;pointer-events:none;;');
 		els['ondragstart']=function() { return false; };
 		el.appendChild(els);
@@ -24933,7 +24937,8 @@ pano.setVariableValue("random_ad", randomNumber+1)
 		el=me._ht_info_image0=document.createElement('div');
 		els=me._ht_info_image0__img=document.createElement('img');
 		els.className='ggskin ggskin_svg';
-		me._ht_info_image0__img.setAttribute('src',basePath + 'images/ht_info_image0.svg');
+		hs='data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGZpbGw9IndoaXRlIiBoZWlnaHQ9IjM2cHgiIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjM2cHgiPgogPHBhdGggZmlsbD0ibm9uZSIgZD0iTTAgMGgyNHYyNEgweiIvPgogPHBhdGggZD0iTTEyIDJDNi40OCAyIDIgNi40OCAyIDEyczQuNDggMTAgMTAgMTAgMTAtNC40OCAxMC0xMFMxNy41MiAyIDEyIDJ6bTEgMTVoLTJ2LTZoMnY2em0wLThoLTJWN2gydjJ6Ii8+Cjwvc3ZnPgo=';
+		me._ht_info_image0__img.setAttribute('src',hs);
 		els.setAttribute('style','position: absolute;top: 0px;left: 0px;width: 100%;height: 100%;-webkit-user-drag:none;pointer-events:none;;');
 		els['ondragstart']=function() { return false; };
 		el.appendChild(els);
@@ -25514,7 +25519,8 @@ pano.setVariableValue("random_ad", randomNumber+1)
 		el=me._ht_info_image=document.createElement('div');
 		els=me._ht_info_image__img=document.createElement('img');
 		els.className='ggskin ggskin_svg';
-		me._ht_info_image__img.setAttribute('src',basePath + 'images/ht_info_image.svg');
+		hs='data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGZpbGw9IndoaXRlIiBoZWlnaHQ9IjM2cHgiIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjM2cHgiPgogPHBhdGggZmlsbD0ibm9uZSIgZD0iTTAgMGgyNHYyNEgweiIvPgogPHBhdGggZD0iTTEyIDJDNi40OCAyIDIgNi40OCAyIDEyczQuNDggMTAgMTAgMTAgMTAtNC40OCAxMC0xMFMxNy41MiAyIDEyIDJ6bTEgMTVoLTJ2LTZoMnY2em0wLThoLTJWN2gydjJ6Ii8+Cjwvc3ZnPgo=';
+		me._ht_info_image__img.setAttribute('src',hs);
 		els.setAttribute('style','position: absolute;top: 0px;left: 0px;width: 100%;height: 100%;-webkit-user-drag:none;pointer-events:none;;');
 		els['ondragstart']=function() { return false; };
 		el.appendChild(els);

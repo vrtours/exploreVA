@@ -1,29 +1,29 @@
-<svg fill="#ffffff" xmlns="http://www.w3.org/2000/svg" height="64" fill-opacity="1" viewBox="0 0 32 32" width="64">
- <circle cy="3" cx="16" r="0">
-  <animate repeatCount="indefinite" calcMode="spline" keySplines="0.2 0.2 0.4 0.8;0.2 0.2 0.4 0.8;0.2 0.2 0.4 0.8" values="0;3;0;0" dur="1s" attributeName="r" begin="0"/>
+<svg viewBox="0 0 32 32" width="64" xmlns="http://www.w3.org/2000/svg" height="64" fill-opacity="1" fill="#ffffff">
+ <circle r="0" cx="16" cy="3">
+  <animate repeatCount="indefinite" keySplines="0.2 0.2 0.4 0.8;0.2 0.2 0.4 0.8;0.2 0.2 0.4 0.8" dur="1s" begin="0" attributeName="r" values="0;3;0;0" calcMode="spline"/>
  </circle>
- <circle transform="rotate(45 16 16)" cy="3" cx="16" r="0">
-  <animate repeatCount="indefinite" calcMode="spline" keySplines="0.2 0.2 0.4 0.8;0.2 0.2 0.4 0.8;0.2 0.2 0.4 0.8" values="0;3;0;0" dur="1s" attributeName="r" begin="0.125s"/>
+ <circle r="0" cx="16" transform="rotate(45 16 16)" cy="3">
+  <animate repeatCount="indefinite" keySplines="0.2 0.2 0.4 0.8;0.2 0.2 0.4 0.8;0.2 0.2 0.4 0.8" dur="1s" begin="0.125s" attributeName="r" values="0;3;0;0" calcMode="spline"/>
  </circle>
- <circle transform="rotate(90 16 16)" cy="3" cx="16" r="0">
-  <animate repeatCount="indefinite" calcMode="spline" keySplines="0.2 0.2 0.4 0.8;0.2 0.2 0.4 0.8;0.2 0.2 0.4 0.8" values="0;3;0;0" dur="1s" attributeName="r" begin="0.25s"/>
+ <circle r="0" cx="16" transform="rotate(90 16 16)" cy="3">
+  <animate repeatCount="indefinite" keySplines="0.2 0.2 0.4 0.8;0.2 0.2 0.4 0.8;0.2 0.2 0.4 0.8" dur="1s" begin="0.25s" attributeName="r" values="0;3;0;0" calcMode="spline"/>
  </circle>
- <circle transform="rotate(135 16 16)" cy="3" cx="16" r="0">
-  <animate repeatCount="indefinite" calcMode="spline" keySplines="0.2 0.2 0.4 0.8;0.2 0.2 0.4 0.8;0.2 0.2 0.4 0.8" values="0;3;0;0" dur="1s" attributeName="r" begin="0.375s"/>
+ <circle r="0" cx="16" transform="rotate(135 16 16)" cy="3">
+  <animate repeatCount="indefinite" keySplines="0.2 0.2 0.4 0.8;0.2 0.2 0.4 0.8;0.2 0.2 0.4 0.8" dur="1s" begin="0.375s" attributeName="r" values="0;3;0;0" calcMode="spline"/>
  </circle>
- <circle transform="rotate(180 16 16)" cy="3" cx="16" r="0">
-  <animate repeatCount="indefinite" calcMode="spline" keySplines="0.2 0.2 0.4 0.8;0.2 0.2 0.4 0.8;0.2 0.2 0.4 0.8" values="0;3;0;0" dur="1s" attributeName="r" begin="0.5s"/>
+ <circle r="0" cx="16" transform="rotate(180 16 16)" cy="3">
+  <animate repeatCount="indefinite" keySplines="0.2 0.2 0.4 0.8;0.2 0.2 0.4 0.8;0.2 0.2 0.4 0.8" dur="1s" begin="0.5s" attributeName="r" values="0;3;0;0" calcMode="spline"/>
  </circle>
- <circle transform="rotate(225 16 16)" cy="3" cx="16" r="0">
-  <animate repeatCount="indefinite" calcMode="spline" keySplines="0.2 0.2 0.4 0.8;0.2 0.2 0.4 0.8;0.2 0.2 0.4 0.8" values="0;3;0;0" dur="1s" attributeName="r" begin="0.625s"/>
+ <circle r="0" cx="16" transform="rotate(225 16 16)" cy="3">
+  <animate repeatCount="indefinite" keySplines="0.2 0.2 0.4 0.8;0.2 0.2 0.4 0.8;0.2 0.2 0.4 0.8" dur="1s" begin="0.625s" attributeName="r" values="0;3;0;0" calcMode="spline"/>
  </circle>
- <circle transform="rotate(270 16 16)" cy="3" cx="16" r="0">
-  <animate repeatCount="indefinite" calcMode="spline" keySplines="0.2 0.2 0.4 0.8;0.2 0.2 0.4 0.8;0.2 0.2 0.4 0.8" values="0;3;0;0" dur="1s" attributeName="r" begin="0.75s"/>
+ <circle r="0" cx="16" transform="rotate(270 16 16)" cy="3">
+  <animate repeatCount="indefinite" keySplines="0.2 0.2 0.4 0.8;0.2 0.2 0.4 0.8;0.2 0.2 0.4 0.8" dur="1s" begin="0.75s" attributeName="r" values="0;3;0;0" calcMode="spline"/>
  </circle>
- <circle transform="rotate(315 16 16)" cy="3" cx="16" r="0">
-  <animate repeatCount="indefinite" calcMode="spline" keySplines="0.2 0.2 0.4 0.8;0.2 0.2 0.4 0.8;0.2 0.2 0.4 0.8" values="0;3;0;0" dur="1s" attributeName="r" begin="0.875s"/>
+ <circle r="0" cx="16" transform="rotate(315 16 16)" cy="3">
+  <animate repeatCount="indefinite" keySplines="0.2 0.2 0.4 0.8;0.2 0.2 0.4 0.8;0.2 0.2 0.4 0.8" dur="1s" begin="0.875s" attributeName="r" values="0;3;0;0" calcMode="spline"/>
  </circle>
- <circle transform="rotate(180 16 16)" cy="3" cx="16" r="0">
-  <animate repeatCount="indefinite" calcMode="spline" keySplines="0.2 0.2 0.4 0.8;0.2 0.2 0.4 0.8;0.2 0.2 0.4 0.8" values="0;3;0;0" dur="1s" attributeName="r" begin="0.5s"/>
+ <circle r="0" cx="16" transform="rotate(180 16 16)" cy="3">
+  <animate repeatCount="indefinite" keySplines="0.2 0.2 0.4 0.8;0.2 0.2 0.4 0.8;0.2 0.2 0.4 0.8" dur="1s" begin="0.5s" attributeName="r" values="0;3;0;0" calcMode="spline"/>
  </circle>
 </svg>

@@ -1,13 +1,13 @@
-<svg viewBox="0 0 24 24" width="36px" xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 24 24" height="36px" fill-opacity="1" fill="#ffffff">
+<svg enable-background="new 0 0 24 24" viewBox="0 0 24 24" width="36px" xmlns="http://www.w3.org/2000/svg" fill="#ffffff" height="36px" fill-opacity="1">
  <g>
-  <rect width="24" height="24" fill="none"/>
+  <rect width="24" fill="none" height="24"/>
  </g>
  <g>
   <g/>
   <g>
-   <rect width="10" x="7" height="15" y="4"/>
-   <rect width="2" x="3" height="11" y="6"/>
-   <rect width="2" x="19" height="11" y="6"/>
+   <rect x="7" width="10" height="15" y="4"/>
+   <rect x="3" width="2" height="11" y="6"/>
+   <rect x="19" width="2" height="11" y="6"/>
   </g>
  </g>
 </svg>

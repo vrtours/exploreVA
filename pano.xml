@@ -126,7 +126,7 @@
     <flyintransition speed="1.00" enabled="1"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control rubberband="0" hideabout="1" lockedmouse="0" sensitivity="8" lockedwheel="0" simulatemass="1" speedwheel="1" invertwheel="0" lockedkeyboard="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="0" dblclickfullscreen="0" contextprojections="0">
-      <menulink text="Created by Gerard Slee" url=""/>
+      <menulink text="Create your own VRTour" url="https://vrtours.github.io/"/>
     </control>
   </panorama>
   <panorama hideabout="1" id="node1">
@@ -158,7 +158,7 @@
     <flyintransition speed="1.00" enabled="1"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control rubberband="0" hideabout="1" lockedmouse="0" sensitivity="8" lockedwheel="0" simulatemass="1" speedwheel="1" invertwheel="0" lockedkeyboard="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="0" dblclickfullscreen="0" contextprojections="0">
-      <menulink text="Created by Gerard Slee" url=""/>
+      <menulink text="Create your own VRTour" url="https://vrtours.github.io/"/>
     </control>
   </panorama>
   <panorama hideabout="1" id="node2">
@@ -192,7 +192,7 @@
     <flyintransition speed="1.00" enabled="1"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control rubberband="0" hideabout="1" lockedmouse="0" sensitivity="8" lockedwheel="0" simulatemass="1" speedwheel="1" invertwheel="0" lockedkeyboard="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="0" dblclickfullscreen="0" contextprojections="0">
-      <menulink text="Created by Gerard Slee" url=""/>
+      <menulink text="Create your own VRTour" url="https://vrtours.github.io/"/>
     </control>
   </panorama>
   <panorama hideabout="1" id="node3">
@@ -226,7 +226,7 @@
     <flyintransition speed="1.00" enabled="1"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control rubberband="0" hideabout="1" lockedmouse="0" sensitivity="8" lockedwheel="0" simulatemass="1" speedwheel="1" invertwheel="0" lockedkeyboard="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="0" dblclickfullscreen="0" contextprojections="0">
-      <menulink text="Created by Gerard Slee" url=""/>
+      <menulink text="Create your own VRTour" url="https://vrtours.github.io/"/>
     </control>
   </panorama>
   <panorama hideabout="1" id="node5">
@@ -262,7 +262,7 @@
     <flyintransition speed="1.00" enabled="1"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control rubberband="0" hideabout="1" lockedmouse="0" sensitivity="8" lockedwheel="0" simulatemass="1" speedwheel="1" invertwheel="0" lockedkeyboard="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="0" dblclickfullscreen="0" contextprojections="0">
-      <menulink text="Created by Gerard Slee" url=""/>
+      <menulink text="Create your own VRTour" url="https://vrtours.github.io/"/>
     </control>
   </panorama>
   <panorama hideabout="1" id="node6">
@@ -302,7 +302,7 @@
     <flyintransition speed="1.00" enabled="1"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control rubberband="0" hideabout="1" lockedmouse="0" sensitivity="8" lockedwheel="0" simulatemass="1" speedwheel="1" invertwheel="0" lockedkeyboard="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="0" dblclickfullscreen="0" contextprojections="0">
-      <menulink text="Created by Gerard Slee" url=""/>
+      <menulink text="Create your own VRTour" url="https://vrtours.github.io/"/>
     </control>
   </panorama>
   <panorama hideabout="1" id="node7">
@@ -342,7 +342,7 @@
     <flyintransition speed="1.00" enabled="1"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control rubberband="0" hideabout="1" lockedmouse="0" sensitivity="8" lockedwheel="0" simulatemass="1" speedwheel="1" invertwheel="0" lockedkeyboard="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="0" dblclickfullscreen="0" contextprojections="0">
-      <menulink text="Created by Gerard Slee" url=""/>
+      <menulink text="Create your own VRTour" url="https://vrtours.github.io/"/>
     </control>
   </panorama>
   <panorama hideabout="1" id="node8">
@@ -374,7 +374,7 @@
     <flyintransition speed="1.00" enabled="1"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control rubberband="0" hideabout="1" lockedmouse="0" sensitivity="8" lockedwheel="0" simulatemass="1" speedwheel="1" invertwheel="0" lockedkeyboard="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="0" dblclickfullscreen="0" contextprojections="0">
-      <menulink text="Created by Gerard Slee" url=""/>
+      <menulink text="Create your own VRTour" url="https://vrtours.github.io/"/>
     </control>
   </panorama>
   <panorama hideabout="1" id="node9">
@@ -409,7 +409,7 @@
     <flyintransition speed="1.00" enabled="1"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control rubberband="0" hideabout="1" lockedmouse="0" sensitivity="8" lockedwheel="0" simulatemass="1" speedwheel="1" invertwheel="0" lockedkeyboard="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="0" dblclickfullscreen="0" contextprojections="0">
-      <menulink text="Created by Gerard Slee" url=""/>
+      <menulink text="Create your own VRTour" url="https://vrtours.github.io/"/>
     </control>
   </panorama>
   <panorama hideabout="1" id="node10">
@@ -443,7 +443,7 @@
     <flyintransition speed="1.00" enabled="1"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control rubberband="0" hideabout="1" lockedmouse="0" sensitivity="8" lockedwheel="0" simulatemass="1" speedwheel="1" invertwheel="0" lockedkeyboard="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="0" dblclickfullscreen="0" contextprojections="0">
-      <menulink text="Created by Gerard Slee" url=""/>
+      <menulink text="Create your own VRTour" url="https://vrtours.github.io/"/>
     </control>
   </panorama>
   <panorama hideabout="1" id="node11">
@@ -477,7 +477,7 @@
     <flyintransition speed="1.00" enabled="1"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control rubberband="0" hideabout="1" lockedmouse="0" sensitivity="8" lockedwheel="0" simulatemass="1" speedwheel="1" invertwheel="0" lockedkeyboard="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="0" dblclickfullscreen="0" contextprojections="0">
-      <menulink text="Created by Gerard Slee" url=""/>
+      <menulink text="Create your own VRTour" url="https://vrtours.github.io/"/>
     </control>
   </panorama>
   <panorama hideabout="1" id="node18">
@@ -513,7 +513,7 @@
     <flyintransition speed="1.00" enabled="1"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control rubberband="0" hideabout="1" lockedmouse="0" sensitivity="8" lockedwheel="0" simulatemass="1" speedwheel="1" invertwheel="0" lockedkeyboard="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="0" dblclickfullscreen="0" contextprojections="0">
-      <menulink text="Created by Gerard Slee" url=""/>
+      <menulink text="Create your own VRTour" url="https://vrtours.github.io/"/>
     </control>
   </panorama>
   <panorama hideabout="1" id="node13">
@@ -547,7 +547,7 @@
     <flyintransition speed="1.00" enabled="1"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control rubberband="0" hideabout="1" lockedmouse="0" sensitivity="8" lockedwheel="0" simulatemass="1" speedwheel="1" invertwheel="0" lockedkeyboard="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="0" dblclickfullscreen="0" contextprojections="0">
-      <menulink text="Created by Gerard Slee" url=""/>
+      <menulink text="Create your own VRTour" url="https://vrtours.github.io/"/>
     </control>
   </panorama>
   <panorama hideabout="1" id="node14">
@@ -580,7 +580,7 @@
     <flyintransition speed="1.00" enabled="1"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control rubberband="0" hideabout="1" lockedmouse="0" sensitivity="8" lockedwheel="0" simulatemass="1" speedwheel="1" invertwheel="0" lockedkeyboard="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="0" dblclickfullscreen="0" contextprojections="0">
-      <menulink text="Created by Gerard Slee" url=""/>
+      <menulink text="Create your own VRTour" url="https://vrtours.github.io/"/>
     </control>
   </panorama>
   <panorama hideabout="1" id="node15">
@@ -619,7 +619,7 @@
     <flyintransition speed="1.00" enabled="1"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control rubberband="0" hideabout="1" lockedmouse="0" sensitivity="8" lockedwheel="0" simulatemass="1" speedwheel="1" invertwheel="0" lockedkeyboard="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="0" dblclickfullscreen="0" contextprojections="0">
-      <menulink text="Created by Gerard Slee" url=""/>
+      <menulink text="Create your own VRTour" url="https://vrtours.github.io/"/>
     </control>
   </panorama>
   <panorama hideabout="1" id="node16">
@@ -658,7 +658,7 @@
     <flyintransition speed="1.00" enabled="1"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control rubberband="0" hideabout="1" lockedmouse="0" sensitivity="8" lockedwheel="0" simulatemass="1" speedwheel="1" invertwheel="0" lockedkeyboard="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="0" dblclickfullscreen="0" contextprojections="0">
-      <menulink text="Created by Gerard Slee" url=""/>
+      <menulink text="Create your own VRTour" url="https://vrtours.github.io/"/>
     </control>
   </panorama>
   <panorama hideabout="1" id="node17">
@@ -698,7 +698,7 @@
     <flyintransition speed="1.00" enabled="1"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control rubberband="0" hideabout="1" lockedmouse="0" sensitivity="8" lockedwheel="0" simulatemass="1" speedwheel="1" invertwheel="0" lockedkeyboard="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="0" dblclickfullscreen="0" contextprojections="0">
-      <menulink text="Created by Gerard Slee" url=""/>
+      <menulink text="Create your own VRTour" url="https://vrtours.github.io/"/>
     </control>
   </panorama>
   <panorama hideabout="1" id="node19">
@@ -730,7 +730,7 @@
     <flyintransition speed="1.00" enabled="1"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control rubberband="0" hideabout="1" lockedmouse="0" sensitivity="8" lockedwheel="0" simulatemass="1" speedwheel="1" invertwheel="0" lockedkeyboard="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="0" dblclickfullscreen="0" contextprojections="0">
-      <menulink text="Created by Gerard Slee" url=""/>
+      <menulink text="Create your own VRTour" url="https://vrtours.github.io/"/>
     </control>
   </panorama>
   <panorama hideabout="1" id="node20">
@@ -771,7 +771,7 @@
     <flyintransition speed="1.00" enabled="1"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control rubberband="0" hideabout="1" lockedmouse="0" sensitivity="8" lockedwheel="0" simulatemass="1" speedwheel="1" invertwheel="0" lockedkeyboard="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="0" dblclickfullscreen="0" contextprojections="0">
-      <menulink text="Created by Gerard Slee" url=""/>
+      <menulink text="Create your own VRTour" url="https://vrtours.github.io/"/>
     </control>
   </panorama>
   <panorama hideabout="1" id="node21">
@@ -807,7 +807,7 @@
     <flyintransition speed="1.00" enabled="1"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control rubberband="0" hideabout="1" lockedmouse="0" sensitivity="8" lockedwheel="0" simulatemass="1" speedwheel="1" invertwheel="0" lockedkeyboard="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="0" dblclickfullscreen="0" contextprojections="0">
-      <menulink text="Created by Gerard Slee" url=""/>
+      <menulink text="Create your own VRTour" url="https://vrtours.github.io/"/>
     </control>
   </panorama>
   <panorama hideabout="1" id="node22">
@@ -844,7 +844,7 @@
     <flyintransition speed="1.00" enabled="1"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control rubberband="0" hideabout="1" lockedmouse="0" sensitivity="8" lockedwheel="0" simulatemass="1" speedwheel="1" invertwheel="0" lockedkeyboard="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="0" dblclickfullscreen="0" contextprojections="0">
-      <menulink text="Created by Gerard Slee" url=""/>
+      <menulink text="Create your own VRTour" url="https://vrtours.github.io/"/>
     </control>
   </panorama>
   <panorama hideabout="1" id="node23">
@@ -877,7 +877,7 @@
     <flyintransition speed="1.00" enabled="1"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control rubberband="0" hideabout="1" lockedmouse="0" sensitivity="8" lockedwheel="0" simulatemass="1" speedwheel="1" invertwheel="0" lockedkeyboard="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="0" dblclickfullscreen="0" contextprojections="0">
-      <menulink text="Created by Gerard Slee" url=""/>
+      <menulink text="Create your own VRTour" url="https://vrtours.github.io/"/>
     </control>
   </panorama>
   <panorama hideabout="1" id="node24">
@@ -911,7 +911,7 @@
     <flyintransition speed="1.00" enabled="1"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control rubberband="0" hideabout="1" lockedmouse="0" sensitivity="8" lockedwheel="0" simulatemass="1" speedwheel="1" invertwheel="0" lockedkeyboard="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="0" dblclickfullscreen="0" contextprojections="0">
-      <menulink text="Created by Gerard Slee" url=""/>
+      <menulink text="Create your own VRTour" url="https://vrtours.github.io/"/>
     </control>
   </panorama>
   <panorama hideabout="1" id="node25">
@@ -946,7 +946,7 @@
     <flyintransition speed="1.00" enabled="1"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control rubberband="0" hideabout="1" lockedmouse="0" sensitivity="8" lockedwheel="0" simulatemass="1" speedwheel="1" invertwheel="0" lockedkeyboard="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="0" dblclickfullscreen="0" contextprojections="0">
-      <menulink text="Created by Gerard Slee" url=""/>
+      <menulink text="Create your own VRTour" url="https://vrtours.github.io/"/>
     </control>
   </panorama>
   <panorama hideabout="1" id="node26">
@@ -986,7 +986,7 @@
     <flyintransition speed="1.00" enabled="1"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control rubberband="0" hideabout="1" lockedmouse="0" sensitivity="8" lockedwheel="0" simulatemass="1" speedwheel="1" invertwheel="0" lockedkeyboard="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="0" dblclickfullscreen="0" contextprojections="0">
-      <menulink text="Created by Gerard Slee" url=""/>
+      <menulink text="Create your own VRTour" url="https://vrtours.github.io/"/>
     </control>
   </panorama>
   <panorama hideabout="1" id="node27">
@@ -1023,7 +1023,7 @@
     <flyintransition speed="1.00" enabled="1"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control rubberband="0" hideabout="1" lockedmouse="0" sensitivity="8" lockedwheel="0" simulatemass="1" speedwheel="1" invertwheel="0" lockedkeyboard="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="0" dblclickfullscreen="0" contextprojections="0">
-      <menulink text="Created by Gerard Slee" url=""/>
+      <menulink text="Create your own VRTour" url="https://vrtours.github.io/"/>
     </control>
   </panorama>
   <panorama hideabout="1" id="node28">
@@ -1062,7 +1062,7 @@
     <flyintransition speed="1.00" enabled="1"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control rubberband="0" hideabout="1" lockedmouse="0" sensitivity="8" lockedwheel="0" simulatemass="1" speedwheel="1" invertwheel="0" lockedkeyboard="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="0" dblclickfullscreen="0" contextprojections="0">
-      <menulink text="Created by Gerard Slee" url=""/>
+      <menulink text="Create your own VRTour" url="https://vrtours.github.io/"/>
     </control>
   </panorama>
   <panorama hideabout="1" id="node29">
@@ -1097,7 +1097,7 @@
     <flyintransition speed="1.00" enabled="1"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control rubberband="0" hideabout="1" lockedmouse="0" sensitivity="8" lockedwheel="0" simulatemass="1" speedwheel="1" invertwheel="0" lockedkeyboard="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="0" dblclickfullscreen="0" contextprojections="0">
-      <menulink text="Created by Gerard Slee" url=""/>
+      <menulink text="Create your own VRTour" url="https://vrtours.github.io/"/>
     </control>
   </panorama>
   <panorama hideabout="1" id="node30">
@@ -1133,7 +1133,7 @@
     <flyintransition speed="1.00" enabled="1"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control rubberband="0" hideabout="1" lockedmouse="0" sensitivity="8" lockedwheel="0" simulatemass="1" speedwheel="1" invertwheel="0" lockedkeyboard="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="0" dblclickfullscreen="0" contextprojections="0">
-      <menulink text="Created by Gerard Slee" url=""/>
+      <menulink text="Create your own VRTour" url="https://vrtours.github.io/"/>
     </control>
   </panorama>
   <panorama hideabout="1" id="node32">
@@ -1172,7 +1172,7 @@
     <flyintransition speed="1.00" enabled="1"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control rubberband="0" hideabout="1" lockedmouse="0" sensitivity="8" lockedwheel="0" simulatemass="1" speedwheel="1" invertwheel="0" lockedkeyboard="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="0" dblclickfullscreen="0" contextprojections="0">
-      <menulink text="Created by Gerard Slee" url=""/>
+      <menulink text="Create your own VRTour" url="https://vrtours.github.io/"/>
     </control>
   </panorama>
   <panorama hideabout="1" id="node33">
@@ -1208,7 +1208,7 @@
     <flyintransition speed="1.00" enabled="1"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control rubberband="0" hideabout="1" lockedmouse="0" sensitivity="8" lockedwheel="0" simulatemass="1" speedwheel="1" invertwheel="0" lockedkeyboard="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="0" dblclickfullscreen="0" contextprojections="0">
-      <menulink text="Created by Gerard Slee" url=""/>
+      <menulink text="Create your own VRTour" url="https://vrtours.github.io/"/>
     </control>
   </panorama>
   <panorama hideabout="1" id="node46">
@@ -1239,7 +1239,7 @@
     <flyintransition speed="1.00" enabled="1"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control rubberband="0" hideabout="1" lockedmouse="0" sensitivity="8" lockedwheel="0" simulatemass="1" speedwheel="1" invertwheel="0" lockedkeyboard="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="0" dblclickfullscreen="0" contextprojections="0">
-      <menulink text="Created by Gerard Slee" url=""/>
+      <menulink text="Create your own VRTour" url="https://vrtours.github.io/"/>
     </control>
   </panorama>
   <panorama hideabout="1" id="node34">
@@ -1272,7 +1272,7 @@
     <flyintransition speed="1.00" enabled="1"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control rubberband="0" hideabout="1" lockedmouse="0" sensitivity="8" lockedwheel="0" simulatemass="1" speedwheel="1" invertwheel="0" lockedkeyboard="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="0" dblclickfullscreen="0" contextprojections="0">
-      <menulink text="Created by Gerard Slee" url=""/>
+      <menulink text="Create your own VRTour" url="https://vrtours.github.io/"/>
     </control>
   </panorama>
   <panorama hideabout="1" id="node35">
@@ -1306,7 +1306,7 @@
     <flyintransition speed="1.00" enabled="1"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control rubberband="0" hideabout="1" lockedmouse="0" sensitivity="8" lockedwheel="0" simulatemass="1" speedwheel="1" invertwheel="0" lockedkeyboard="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="0" dblclickfullscreen="0" contextprojections="0">
-      <menulink text="Created by Gerard Slee" url=""/>
+      <menulink text="Create your own VRTour" url="https://vrtours.github.io/"/>
     </control>
   </panorama>
   <panorama hideabout="1" id="node36">
@@ -1339,7 +1339,7 @@
     <flyintransition speed="1.00" enabled="1"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control rubberband="0" hideabout="1" lockedmouse="0" sensitivity="8" lockedwheel="0" simulatemass="1" speedwheel="1" invertwheel="0" lockedkeyboard="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="0" dblclickfullscreen="0" contextprojections="0">
-      <menulink text="Created by Gerard Slee" url=""/>
+      <menulink text="Create your own VRTour" url="https://vrtours.github.io/"/>
     </control>
   </panorama>
   <panorama hideabout="1" id="node37">
@@ -1374,7 +1374,7 @@
     <flyintransition speed="1.00" enabled="1"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control rubberband="0" hideabout="1" lockedmouse="0" sensitivity="8" lockedwheel="0" simulatemass="1" speedwheel="1" invertwheel="0" lockedkeyboard="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="0" dblclickfullscreen="0" contextprojections="0">
-      <menulink text="Created by Gerard Slee" url=""/>
+      <menulink text="Create your own VRTour" url="https://vrtours.github.io/"/>
     </control>
   </panorama>
   <panorama hideabout="1" id="node38">
@@ -1406,7 +1406,7 @@
     <flyintransition speed="1.00" enabled="1"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control rubberband="0" hideabout="1" lockedmouse="0" sensitivity="8" lockedwheel="0" simulatemass="1" speedwheel="1" invertwheel="0" lockedkeyboard="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="0" dblclickfullscreen="0" contextprojections="0">
-      <menulink text="Created by Gerard Slee" url=""/>
+      <menulink text="Create your own VRTour" url="https://vrtours.github.io/"/>
     </control>
   </panorama>
   <panorama hideabout="1" id="node39">
@@ -1441,7 +1441,7 @@
     <flyintransition speed="1.00" enabled="1"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control rubberband="0" hideabout="1" lockedmouse="0" sensitivity="8" lockedwheel="0" simulatemass="1" speedwheel="1" invertwheel="0" lockedkeyboard="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="0" dblclickfullscreen="0" contextprojections="0">
-      <menulink text="Created by Gerard Slee" url=""/>
+      <menulink text="Create your own VRTour" url="https://vrtours.github.io/"/>
     </control>
   </panorama>
   <panorama hideabout="1" id="node40">
@@ -1474,7 +1474,7 @@
     <flyintransition speed="1.00" enabled="1"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control rubberband="0" hideabout="1" lockedmouse="0" sensitivity="8" lockedwheel="0" simulatemass="1" speedwheel="1" invertwheel="0" lockedkeyboard="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="0" dblclickfullscreen="0" contextprojections="0">
-      <menulink text="Created by Gerard Slee" url=""/>
+      <menulink text="Create your own VRTour" url="https://vrtours.github.io/"/>
     </control>
   </panorama>
   <panorama hideabout="1" id="node41">
@@ -1508,7 +1508,7 @@
     <flyintransition speed="1.00" enabled="1"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control rubberband="0" hideabout="1" lockedmouse="0" sensitivity="8" lockedwheel="0" simulatemass="1" speedwheel="1" invertwheel="0" lockedkeyboard="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="0" dblclickfullscreen="0" contextprojections="0">
-      <menulink text="Created by Gerard Slee" url=""/>
+      <menulink text="Create your own VRTour" url="https://vrtours.github.io/"/>
     </control>
   </panorama>
   <panorama hideabout="1" id="node42">
@@ -1544,7 +1544,7 @@
     <flyintransition speed="1.00" enabled="1"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control rubberband="0" hideabout="1" lockedmouse="0" sensitivity="8" lockedwheel="0" simulatemass="1" speedwheel="1" invertwheel="0" lockedkeyboard="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="0" dblclickfullscreen="0" contextprojections="0">
-      <menulink text="Created by Gerard Slee" url=""/>
+      <menulink text="Create your own VRTour" url="https://vrtours.github.io/"/>
     </control>
   </panorama>
   <panorama hideabout="1" id="node43">
@@ -1578,7 +1578,7 @@
     <flyintransition speed="1.00" enabled="1"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control rubberband="0" hideabout="1" lockedmouse="0" sensitivity="8" lockedwheel="0" simulatemass="1" speedwheel="1" invertwheel="0" lockedkeyboard="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="0" dblclickfullscreen="0" contextprojections="0">
-      <menulink text="Created by Gerard Slee" url=""/>
+      <menulink text="Create your own VRTour" url="https://vrtours.github.io/"/>
     </control>
   </panorama>
   <panorama hideabout="1" id="node44">
@@ -1610,7 +1610,7 @@
     <flyintransition speed="1.00" enabled="1"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control rubberband="0" hideabout="1" lockedmouse="0" sensitivity="8" lockedwheel="0" simulatemass="1" speedwheel="1" invertwheel="0" lockedkeyboard="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="0" dblclickfullscreen="0" contextprojections="0">
-      <menulink text="Created by Gerard Slee" url=""/>
+      <menulink text="Create your own VRTour" url="https://vrtours.github.io/"/>
     </control>
   </panorama>
   <panorama hideabout="1" id="node45">
@@ -1643,7 +1643,7 @@
     <flyintransition speed="1.00" enabled="1"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control rubberband="0" hideabout="1" lockedmouse="0" sensitivity="8" lockedwheel="0" simulatemass="1" speedwheel="1" invertwheel="0" lockedkeyboard="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="0" dblclickfullscreen="0" contextprojections="0">
-      <menulink text="Created by Gerard Slee" url=""/>
+      <menulink text="Create your own VRTour" url="https://vrtours.github.io/"/>
     </control>
   </panorama>
   <panorama hideabout="1" id="node47">
@@ -1674,7 +1674,7 @@
     <flyintransition speed="1.00" enabled="1"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control rubberband="0" hideabout="1" lockedmouse="0" sensitivity="8" lockedwheel="0" simulatemass="1" speedwheel="1" invertwheel="0" lockedkeyboard="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="0" dblclickfullscreen="0" contextprojections="0">
-      <menulink text="Created by Gerard Slee" url=""/>
+      <menulink text="Create your own VRTour" url="https://vrtours.github.io/"/>
     </control>
   </panorama>
   <panorama hideabout="1" id="node48">
@@ -1706,7 +1706,7 @@
     <flyintransition speed="1.00" enabled="1"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control rubberband="0" hideabout="1" lockedmouse="0" sensitivity="8" lockedwheel="0" simulatemass="1" speedwheel="1" invertwheel="0" lockedkeyboard="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="0" dblclickfullscreen="0" contextprojections="0">
-      <menulink text="Created by Gerard Slee" url=""/>
+      <menulink text="Create your own VRTour" url="https://vrtours.github.io/"/>
     </control>
   </panorama>
   <panorama hideabout="1" id="node49">
@@ -1737,7 +1737,7 @@
     <flyintransition speed="1.00" enabled="1"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control rubberband="0" hideabout="1" lockedmouse="0" sensitivity="8" lockedwheel="0" simulatemass="1" speedwheel="1" invertwheel="0" lockedkeyboard="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="0" dblclickfullscreen="0" contextprojections="0">
-      <menulink text="Created by Gerard Slee" url=""/>
+      <menulink text="Create your own VRTour" url="https://vrtours.github.io/"/>
     </control>
   </panorama>
   <panorama hideabout="1" id="node50">
@@ -1771,7 +1771,7 @@
     <flyintransition speed="1.00" enabled="1"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control rubberband="0" hideabout="1" lockedmouse="0" sensitivity="8" lockedwheel="0" simulatemass="1" speedwheel="1" invertwheel="0" lockedkeyboard="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="0" dblclickfullscreen="0" contextprojections="0">
-      <menulink text="Created by Gerard Slee" url=""/>
+      <menulink text="Create your own VRTour" url="https://vrtours.github.io/"/>
     </control>
   </panorama>
   <panorama hideabout="1" id="node51">
@@ -1805,7 +1805,7 @@
     <flyintransition speed="1.00" enabled="1"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control rubberband="0" hideabout="1" lockedmouse="0" sensitivity="8" lockedwheel="0" simulatemass="1" speedwheel="1" invertwheel="0" lockedkeyboard="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="0" dblclickfullscreen="0" contextprojections="0">
-      <menulink text="Created by Gerard Slee" url=""/>
+      <menulink text="Create your own VRTour" url="https://vrtours.github.io/"/>
     </control>
   </panorama>
   <panorama hideabout="1" id="node52">
@@ -1837,7 +1837,7 @@
     <flyintransition speed="1.00" enabled="1"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control rubberband="0" hideabout="1" lockedmouse="0" sensitivity="8" lockedwheel="0" simulatemass="1" speedwheel="1" invertwheel="0" lockedkeyboard="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="0" dblclickfullscreen="0" contextprojections="0">
-      <menulink text="Created by Gerard Slee" url=""/>
+      <menulink text="Create your own VRTour" url="https://vrtours.github.io/"/>
     </control>
   </panorama>
   <panorama hideabout="1" id="node53">
@@ -1872,7 +1872,7 @@
     <flyintransition speed="1.00" enabled="1"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control rubberband="0" hideabout="1" lockedmouse="0" sensitivity="8" lockedwheel="0" simulatemass="1" speedwheel="1" invertwheel="0" lockedkeyboard="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="0" dblclickfullscreen="0" contextprojections="0">
-      <menulink text="Created by Gerard Slee" url=""/>
+      <menulink text="Create your own VRTour" url="https://vrtours.github.io/"/>
     </control>
   </panorama>
   <panorama hideabout="1" id="node54">
@@ -1903,7 +1903,7 @@
     <flyintransition speed="1.00" enabled="1"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control rubberband="0" hideabout="1" lockedmouse="0" sensitivity="8" lockedwheel="0" simulatemass="1" speedwheel="1" invertwheel="0" lockedkeyboard="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="0" dblclickfullscreen="0" contextprojections="0">
-      <menulink text="Created by Gerard Slee" url=""/>
+      <menulink text="Create your own VRTour" url="https://vrtours.github.io/"/>
     </control>
   </panorama>
   <panorama hideabout="1" id="node55">
@@ -1935,7 +1935,7 @@
     <flyintransition speed="1.00" enabled="1"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control rubberband="0" hideabout="1" lockedmouse="0" sensitivity="8" lockedwheel="0" simulatemass="1" speedwheel="1" invertwheel="0" lockedkeyboard="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="0" dblclickfullscreen="0" contextprojections="0">
-      <menulink text="Created by Gerard Slee" url=""/>
+      <menulink text="Create your own VRTour" url="https://vrtours.github.io/"/>
     </control>
   </panorama>
   <panorama hideabout="1" id="node56">
@@ -1968,7 +1968,7 @@
     <flyintransition speed="1.00" enabled="1"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control rubberband="0" hideabout="1" lockedmouse="0" sensitivity="8" lockedwheel="0" simulatemass="1" speedwheel="1" invertwheel="0" lockedkeyboard="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="0" dblclickfullscreen="0" contextprojections="0">
-      <menulink text="Created by Gerard Slee" url=""/>
+      <menulink text="Create your own VRTour" url="https://vrtours.github.io/"/>
     </control>
   </panorama>
   <panorama hideabout="1" id="node57">
@@ -2001,7 +2001,7 @@
     <flyintransition speed="1.00" enabled="1"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control rubberband="0" hideabout="1" lockedmouse="0" sensitivity="8" lockedwheel="0" simulatemass="1" speedwheel="1" invertwheel="0" lockedkeyboard="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="0" dblclickfullscreen="0" contextprojections="0">
-      <menulink text="Created by Gerard Slee" url=""/>
+      <menulink text="Create your own VRTour" url="https://vrtours.github.io/"/>
     </control>
   </panorama>
   <panorama hideabout="1" id="node58">
@@ -2033,7 +2033,7 @@
     <flyintransition speed="1.00" enabled="1"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control rubberband="0" hideabout="1" lockedmouse="0" sensitivity="8" lockedwheel="0" simulatemass="1" speedwheel="1" invertwheel="0" lockedkeyboard="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="0" dblclickfullscreen="0" contextprojections="0">
-      <menulink text="Created by Gerard Slee" url=""/>
+      <menulink text="Create your own VRTour" url="https://vrtours.github.io/"/>
     </control>
   </panorama>
   <panorama hideabout="1" id="node59">
@@ -2065,7 +2065,7 @@
     <flyintransition speed="1.00" enabled="1"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control rubberband="0" hideabout="1" lockedmouse="0" sensitivity="8" lockedwheel="0" simulatemass="1" speedwheel="1" invertwheel="0" lockedkeyboard="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="0" dblclickfullscreen="0" contextprojections="0">
-      <menulink text="Created by Gerard Slee" url=""/>
+      <menulink text="Create your own VRTour" url="https://vrtours.github.io/"/>
     </control>
   </panorama>
   <panorama hideabout="1" id="node60">
@@ -2097,7 +2097,7 @@
     <flyintransition speed="1.00" enabled="1"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control rubberband="0" hideabout="1" lockedmouse="0" sensitivity="8" lockedwheel="0" simulatemass="1" speedwheel="1" invertwheel="0" lockedkeyboard="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="0" dblclickfullscreen="0" contextprojections="0">
-      <menulink text="Created by Gerard Slee" url=""/>
+      <menulink text="Create your own VRTour" url="https://vrtours.github.io/"/>
     </control>
   </panorama>
   <panorama hideabout="1" id="node61">
@@ -2130,7 +2130,7 @@
     <flyintransition speed="1.00" enabled="1"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control rubberband="0" hideabout="1" lockedmouse="0" sensitivity="8" lockedwheel="0" simulatemass="1" speedwheel="1" invertwheel="0" lockedkeyboard="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="0" dblclickfullscreen="0" contextprojections="0">
-      <menulink text="Created by Gerard Slee" url=""/>
+      <menulink text="Create your own VRTour" url="https://vrtours.github.io/"/>
     </control>
   </panorama>
   <panorama hideabout="1" id="node62">
@@ -2163,7 +2163,7 @@
     <flyintransition speed="1.00" enabled="1"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control rubberband="0" hideabout="1" lockedmouse="0" sensitivity="8" lockedwheel="0" simulatemass="1" speedwheel="1" invertwheel="0" lockedkeyboard="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="0" dblclickfullscreen="0" contextprojections="0">
-      <menulink text="Created by Gerard Slee" url=""/>
+      <menulink text="Create your own VRTour" url="https://vrtours.github.io/"/>
     </control>
   </panorama>
   <panorama hideabout="1" id="node63">
@@ -2196,7 +2196,7 @@
     <flyintransition speed="1.00" enabled="1"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control rubberband="0" hideabout="1" lockedmouse="0" sensitivity="8" lockedwheel="0" simulatemass="1" speedwheel="1" invertwheel="0" lockedkeyboard="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="0" dblclickfullscreen="0" contextprojections="0">
-      <menulink text="Created by Gerard Slee" url=""/>
+      <menulink text="Create your own VRTour" url="https://vrtours.github.io/"/>
     </control>
   </panorama>
   <panorama hideabout="1" id="node64">
@@ -2227,7 +2227,7 @@
     <flyintransition speed="1.00" enabled="1"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control rubberband="0" hideabout="1" lockedmouse="0" sensitivity="8" lockedwheel="0" simulatemass="1" speedwheel="1" invertwheel="0" lockedkeyboard="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="0" dblclickfullscreen="0" contextprojections="0">
-      <menulink text="Created by Gerard Slee" url=""/>
+      <menulink text="Create your own VRTour" url="https://vrtours.github.io/"/>
     </control>
   </panorama>
   <panorama hideabout="1" id="node65">
@@ -2262,7 +2262,7 @@
     <flyintransition speed="1.00" enabled="1"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control rubberband="0" hideabout="1" lockedmouse="0" sensitivity="8" lockedwheel="0" simulatemass="1" speedwheel="1" invertwheel="0" lockedkeyboard="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="0" dblclickfullscreen="0" contextprojections="0">
-      <menulink text="Created by Gerard Slee" url=""/>
+      <menulink text="Create your own VRTour" url="https://vrtours.github.io/"/>
     </control>
   </panorama>
   <panorama hideabout="1" id="node66">
@@ -2294,7 +2294,7 @@
     <flyintransition speed="1.00" enabled="1"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control rubberband="0" hideabout="1" lockedmouse="0" sensitivity="8" lockedwheel="0" simulatemass="1" speedwheel="1" invertwheel="0" lockedkeyboard="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="0" dblclickfullscreen="0" contextprojections="0">
-      <menulink text="Created by Gerard Slee" url=""/>
+      <menulink text="Create your own VRTour" url="https://vrtours.github.io/"/>
     </control>
   </panorama>
   <panorama hideabout="1" id="node67">
@@ -2326,7 +2326,7 @@
     <flyintransition speed="1.00" enabled="1"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control rubberband="0" hideabout="1" lockedmouse="0" sensitivity="8" lockedwheel="0" simulatemass="1" speedwheel="1" invertwheel="0" lockedkeyboard="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="0" dblclickfullscreen="0" contextprojections="0">
-      <menulink text="Created by Gerard Slee" url=""/>
+      <menulink text="Create your own VRTour" url="https://vrtours.github.io/"/>
     </control>
   </panorama>
   <panorama hideabout="1" id="node68">
@@ -2358,7 +2358,7 @@
     <flyintransition speed="1.00" enabled="1"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control rubberband="0" hideabout="1" lockedmouse="0" sensitivity="8" lockedwheel="0" simulatemass="1" speedwheel="1" invertwheel="0" lockedkeyboard="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="0" dblclickfullscreen="0" contextprojections="0">
-      <menulink text="Created by Gerard Slee" url=""/>
+      <menulink text="Create your own VRTour" url="https://vrtours.github.io/"/>
     </control>
   </panorama>
   <panorama hideabout="1" id="node69">
@@ -2383,7 +2383,7 @@
       <hotspot skinid="ht_logo" id="Point01" description="" target="_blank" pan="0" title="" url="" tilt="-90"/>
       <hotspot skinid="ht_node" id="Point01" distance="12.076" description="" target="$fwd" pan="-1.88576" title="" url="{node10}" tilt="-8.95"/>
       <hotspot skinid="ht_node" id="Point02" distance="23.6821" description="" target="$fwd" pan="155.768" title="" url="{node11}" tilt="-3.43"/>
-      <hotspot skinid="ht_node" id="Point03" distance="24.8125" description="" target="$fwd" pan="200.772" title="" url="{node70}" tilt="0"/>
+      <hotspot skinid="ht_node" id="Point03" distance="24.8125" description="" target="$fwd" pan="209.452" title="" url="{node70}" tilt="9.35"/>
       <hotspot skinid="ht_node" id="Point04" distance="14.8799" description="" target="$fwd" pan="143.745" title="" url="{node71}" tilt="0"/>
     </hotspots>
     <media/>
@@ -2392,7 +2392,7 @@
     <flyintransition speed="1.00" enabled="1"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control rubberband="0" hideabout="1" lockedmouse="0" sensitivity="8" lockedwheel="0" simulatemass="1" speedwheel="1" invertwheel="0" lockedkeyboard="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="0" dblclickfullscreen="0" contextprojections="0">
-      <menulink text="Created by Gerard Slee" url=""/>
+      <menulink text="Create your own VRTour" url="https://vrtours.github.io/"/>
     </control>
   </panorama>
   <panorama hideabout="1" id="node70">
@@ -2429,7 +2429,7 @@
     <flyintransition speed="1.00" enabled="1"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control rubberband="0" hideabout="1" lockedmouse="0" sensitivity="8" lockedwheel="0" simulatemass="1" speedwheel="1" invertwheel="0" lockedkeyboard="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="0" dblclickfullscreen="0" contextprojections="0">
-      <menulink text="Created by Gerard Slee" url=""/>
+      <menulink text="Create your own VRTour" url="https://vrtours.github.io/"/>
     </control>
   </panorama>
   <panorama hideabout="1" id="node71">
@@ -2462,7 +2462,7 @@
     <flyintransition speed="1.00" enabled="1"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control rubberband="0" hideabout="1" lockedmouse="0" sensitivity="8" lockedwheel="0" simulatemass="1" speedwheel="1" invertwheel="0" lockedkeyboard="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="0" dblclickfullscreen="0" contextprojections="0">
-      <menulink text="Created by Gerard Slee" url=""/>
+      <menulink text="Create your own VRTour" url="https://vrtours.github.io/"/>
     </control>
   </panorama>
   <panorama hideabout="1" id="node72">
@@ -2496,7 +2496,7 @@
     <flyintransition speed="1.00" enabled="1"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control rubberband="0" hideabout="1" lockedmouse="0" sensitivity="8" lockedwheel="0" simulatemass="1" speedwheel="1" invertwheel="0" lockedkeyboard="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="0" dblclickfullscreen="0" contextprojections="0">
-      <menulink text="Created by Gerard Slee" url=""/>
+      <menulink text="Create your own VRTour" url="https://vrtours.github.io/"/>
     </control>
   </panorama>
   <panorama hideabout="1" id="node73">
@@ -2532,7 +2532,7 @@
     <flyintransition speed="1.00" enabled="1"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control rubberband="0" hideabout="1" lockedmouse="0" sensitivity="8" lockedwheel="0" simulatemass="1" speedwheel="1" invertwheel="0" lockedkeyboard="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="0" dblclickfullscreen="0" contextprojections="0">
-      <menulink text="Created by Gerard Slee" url=""/>
+      <menulink text="Create your own VRTour" url="https://vrtours.github.io/"/>
     </control>
   </panorama>
   <panorama hideabout="1" id="node77">
@@ -2568,7 +2568,7 @@
     <flyintransition speed="1.00" enabled="1"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control rubberband="0" hideabout="1" lockedmouse="0" sensitivity="8" lockedwheel="0" simulatemass="1" speedwheel="1" invertwheel="0" lockedkeyboard="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="0" dblclickfullscreen="0" contextprojections="0">
-      <menulink text="Created by Gerard Slee" url=""/>
+      <menulink text="Create your own VRTour" url="https://vrtours.github.io/"/>
     </control>
   </panorama>
   <panorama hideabout="1" id="node74">
@@ -2600,7 +2600,7 @@
     <flyintransition speed="1.00" enabled="1"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control rubberband="0" hideabout="1" lockedmouse="0" sensitivity="8" lockedwheel="0" simulatemass="1" speedwheel="1" invertwheel="0" lockedkeyboard="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="0" dblclickfullscreen="0" contextprojections="0">
-      <menulink text="Created by Gerard Slee" url=""/>
+      <menulink text="Create your own VRTour" url="https://vrtours.github.io/"/>
     </control>
   </panorama>
   <panorama hideabout="1" id="node75">
@@ -2632,7 +2632,7 @@
     <flyintransition speed="1.00" enabled="1"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control rubberband="0" hideabout="1" lockedmouse="0" sensitivity="8" lockedwheel="0" simulatemass="1" speedwheel="1" invertwheel="0" lockedkeyboard="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="0" dblclickfullscreen="0" contextprojections="0">
-      <menulink text="Created by Gerard Slee" url=""/>
+      <menulink text="Create your own VRTour" url="https://vrtours.github.io/"/>
     </control>
   </panorama>
   <panorama hideabout="1" id="node76">
@@ -2666,7 +2666,7 @@
     <flyintransition speed="1.00" enabled="1"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control rubberband="0" hideabout="1" lockedmouse="0" sensitivity="8" lockedwheel="0" simulatemass="1" speedwheel="1" invertwheel="0" lockedkeyboard="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="0" dblclickfullscreen="0" contextprojections="0">
-      <menulink text="Created by Gerard Slee" url=""/>
+      <menulink text="Create your own VRTour" url="https://vrtours.github.io/"/>
     </control>
   </panorama>
   <panorama hideabout="1" id="node78">
@@ -2701,7 +2701,7 @@
     <flyintransition speed="1.00" enabled="1"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control rubberband="0" hideabout="1" lockedmouse="0" sensitivity="8" lockedwheel="0" simulatemass="1" speedwheel="1" invertwheel="0" lockedkeyboard="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="0" dblclickfullscreen="0" contextprojections="0">
-      <menulink text="Created by Gerard Slee" url=""/>
+      <menulink text="Create your own VRTour" url="https://vrtours.github.io/"/>
     </control>
   </panorama>
   <panorama hideabout="1" id="node79">
@@ -2736,7 +2736,7 @@
     <flyintransition speed="1.00" enabled="1"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control rubberband="0" hideabout="1" lockedmouse="0" sensitivity="8" lockedwheel="0" simulatemass="1" speedwheel="1" invertwheel="0" lockedkeyboard="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="0" dblclickfullscreen="0" contextprojections="0">
-      <menulink text="Created by Gerard Slee" url=""/>
+      <menulink text="Create your own VRTour" url="https://vrtours.github.io/"/>
     </control>
   </panorama>
   <panorama hideabout="1" id="node80">
@@ -2769,7 +2769,7 @@
     <flyintransition speed="1.00" enabled="1"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control rubberband="0" hideabout="1" lockedmouse="0" sensitivity="8" lockedwheel="0" simulatemass="1" speedwheel="1" invertwheel="0" lockedkeyboard="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="0" dblclickfullscreen="0" contextprojections="0">
-      <menulink text="Created by Gerard Slee" url=""/>
+      <menulink text="Create your own VRTour" url="https://vrtours.github.io/"/>
     </control>
   </panorama>
   <panorama hideabout="1" id="node81">
@@ -2803,7 +2803,7 @@
     <flyintransition speed="1.00" enabled="1"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control rubberband="0" hideabout="1" lockedmouse="0" sensitivity="8" lockedwheel="0" simulatemass="1" speedwheel="1" invertwheel="0" lockedkeyboard="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="0" dblclickfullscreen="0" contextprojections="0">
-      <menulink text="Created by Gerard Slee" url=""/>
+      <menulink text="Create your own VRTour" url="https://vrtours.github.io/"/>
     </control>
   </panorama>
   <panorama hideabout="1" id="node83">
@@ -2836,7 +2836,7 @@
     <flyintransition speed="1.00" enabled="1"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control rubberband="0" hideabout="1" lockedmouse="0" sensitivity="8" lockedwheel="0" simulatemass="1" speedwheel="1" invertwheel="0" lockedkeyboard="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="0" dblclickfullscreen="0" contextprojections="0">
-      <menulink text="Created by Gerard Slee" url=""/>
+      <menulink text="Create your own VRTour" url="https://vrtours.github.io/"/>
     </control>
   </panorama>
   <panorama hideabout="1" id="node84">
@@ -2872,7 +2872,7 @@
     <flyintransition speed="1.00" enabled="1"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control rubberband="0" hideabout="1" lockedmouse="0" sensitivity="8" lockedwheel="0" simulatemass="1" speedwheel="1" invertwheel="0" lockedkeyboard="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="0" dblclickfullscreen="0" contextprojections="0">
-      <menulink text="Created by Gerard Slee" url=""/>
+      <menulink text="Create your own VRTour" url="https://vrtours.github.io/"/>
     </control>
   </panorama>
   <panorama hideabout="1" id="node85">
@@ -2909,7 +2909,7 @@
     <flyintransition speed="1.00" enabled="1"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control rubberband="0" hideabout="1" lockedmouse="0" sensitivity="8" lockedwheel="0" simulatemass="1" speedwheel="1" invertwheel="0" lockedkeyboard="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="0" dblclickfullscreen="0" contextprojections="0">
-      <menulink text="Created by Gerard Slee" url=""/>
+      <menulink text="Create your own VRTour" url="https://vrtours.github.io/"/>
     </control>
   </panorama>
   <panorama hideabout="1" id="node86">
@@ -2944,7 +2944,7 @@
     <flyintransition speed="1.00" enabled="1"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control rubberband="0" hideabout="1" lockedmouse="0" sensitivity="8" lockedwheel="0" simulatemass="1" speedwheel="1" invertwheel="0" lockedkeyboard="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="0" dblclickfullscreen="0" contextprojections="0">
-      <menulink text="Created by Gerard Slee" url=""/>
+      <menulink text="Create your own VRTour" url="https://vrtours.github.io/"/>
     </control>
   </panorama>
   <panorama hideabout="1" id="node87">
@@ -2981,7 +2981,7 @@
     <flyintransition speed="1.00" enabled="1"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control rubberband="0" hideabout="1" lockedmouse="0" sensitivity="8" lockedwheel="0" simulatemass="1" speedwheel="1" invertwheel="0" lockedkeyboard="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="0" dblclickfullscreen="0" contextprojections="0">
-      <menulink text="Created by Gerard Slee" url=""/>
+      <menulink text="Create your own VRTour" url="https://vrtours.github.io/"/>
     </control>
   </panorama>
   <panorama hideabout="1" id="node88">
@@ -3015,7 +3015,7 @@
     <flyintransition speed="1.00" enabled="1"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control rubberband="0" hideabout="1" lockedmouse="0" sensitivity="8" lockedwheel="0" simulatemass="1" speedwheel="1" invertwheel="0" lockedkeyboard="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="0" dblclickfullscreen="0" contextprojections="0">
-      <menulink text="Created by Gerard Slee" url=""/>
+      <menulink text="Create your own VRTour" url="https://vrtours.github.io/"/>
     </control>
   </panorama>
   <panorama hideabout="1" id="node89">
@@ -3047,7 +3047,7 @@
     <flyintransition speed="1.00" enabled="1"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control rubberband="0" hideabout="1" lockedmouse="0" sensitivity="8" lockedwheel="0" simulatemass="1" speedwheel="1" invertwheel="0" lockedkeyboard="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="0" dblclickfullscreen="0" contextprojections="0">
-      <menulink text="Created by Gerard Slee" url=""/>
+      <menulink text="Create your own VRTour" url="https://vrtours.github.io/"/>
     </control>
   </panorama>
   <panorama hideabout="1" id="node90">
@@ -3080,7 +3080,7 @@
     <flyintransition speed="1.00" enabled="1"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control rubberband="0" hideabout="1" lockedmouse="0" sensitivity="8" lockedwheel="0" simulatemass="1" speedwheel="1" invertwheel="0" lockedkeyboard="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="0" dblclickfullscreen="0" contextprojections="0">
-      <menulink text="Created by Gerard Slee" url=""/>
+      <menulink text="Create your own VRTour" url="https://vrtours.github.io/"/>
     </control>
   </panorama>
   <panorama hideabout="1" id="node91">
@@ -3113,7 +3113,7 @@
     <flyintransition speed="1.00" enabled="1"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control rubberband="0" hideabout="1" lockedmouse="0" sensitivity="8" lockedwheel="0" simulatemass="1" speedwheel="1" invertwheel="0" lockedkeyboard="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="0" dblclickfullscreen="0" contextprojections="0">
-      <menulink text="Created by Gerard Slee" url=""/>
+      <menulink text="Create your own VRTour" url="https://vrtours.github.io/"/>
     </control>
   </panorama>
   <panorama hideabout="1" id="node92">
@@ -3146,7 +3146,7 @@
     <flyintransition speed="1.00" enabled="1"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control rubberband="0" hideabout="1" lockedmouse="0" sensitivity="8" lockedwheel="0" simulatemass="1" speedwheel="1" invertwheel="0" lockedkeyboard="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="0" dblclickfullscreen="0" contextprojections="0">
-      <menulink text="Created by Gerard Slee" url=""/>
+      <menulink text="Create your own VRTour" url="https://vrtours.github.io/"/>
     </control>
   </panorama>
   <panorama hideabout="1" id="node93">
@@ -3179,7 +3179,7 @@
     <flyintransition speed="1.00" enabled="1"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control rubberband="0" hideabout="1" lockedmouse="0" sensitivity="8" lockedwheel="0" simulatemass="1" speedwheel="1" invertwheel="0" lockedkeyboard="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="0" dblclickfullscreen="0" contextprojections="0">
-      <menulink text="Created by Gerard Slee" url=""/>
+      <menulink text="Create your own VRTour" url="https://vrtours.github.io/"/>
     </control>
   </panorama>
   <panorama hideabout="1" id="node94">
@@ -3212,7 +3212,7 @@
     <flyintransition speed="1.00" enabled="1"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control rubberband="0" hideabout="1" lockedmouse="0" sensitivity="8" lockedwheel="0" simulatemass="1" speedwheel="1" invertwheel="0" lockedkeyboard="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="0" dblclickfullscreen="0" contextprojections="0">
-      <menulink text="Created by Gerard Slee" url=""/>
+      <menulink text="Create your own VRTour" url="https://vrtours.github.io/"/>
     </control>
   </panorama>
   <panorama hideabout="1" id="node95">
@@ -3245,7 +3245,7 @@
     <flyintransition speed="1.00" enabled="1"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control rubberband="0" hideabout="1" lockedmouse="0" sensitivity="8" lockedwheel="0" simulatemass="1" speedwheel="1" invertwheel="0" lockedkeyboard="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="0" dblclickfullscreen="0" contextprojections="0">
-      <menulink text="Created by Gerard Slee" url=""/>
+      <menulink text="Create your own VRTour" url="https://vrtours.github.io/"/>
     </control>
   </panorama>
   <panorama hideabout="1" id="node96">
@@ -3276,7 +3276,7 @@
     <flyintransition speed="1.00" enabled="1"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control rubberband="0" hideabout="1" lockedmouse="0" sensitivity="8" lockedwheel="0" simulatemass="1" speedwheel="1" invertwheel="0" lockedkeyboard="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="0" dblclickfullscreen="0" contextprojections="0">
-      <menulink text="Created by Gerard Slee" url=""/>
+      <menulink text="Create your own VRTour" url="https://vrtours.github.io/"/>
     </control>
   </panorama>
   <panorama hideabout="1" id="node97">
@@ -3309,7 +3309,7 @@
     <flyintransition speed="1.00" enabled="1"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control rubberband="0" hideabout="1" lockedmouse="0" sensitivity="8" lockedwheel="0" simulatemass="1" speedwheel="1" invertwheel="0" lockedkeyboard="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="0" dblclickfullscreen="0" contextprojections="0">
-      <menulink text="Created by Gerard Slee" url=""/>
+      <menulink text="Create your own VRTour" url="https://vrtours.github.io/"/>
     </control>
   </panorama>
   <panorama hideabout="1" id="node98">
@@ -3341,7 +3341,7 @@
     <flyintransition speed="1.00" enabled="1"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control rubberband="0" hideabout="1" lockedmouse="0" sensitivity="8" lockedwheel="0" simulatemass="1" speedwheel="1" invertwheel="0" lockedkeyboard="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="0" dblclickfullscreen="0" contextprojections="0">
-      <menulink text="Created by Gerard Slee" url=""/>
+      <menulink text="Create your own VRTour" url="https://vrtours.github.io/"/>
     </control>
   </panorama>
   <panorama hideabout="1" id="node99">
@@ -3373,7 +3373,7 @@
     <flyintransition speed="1.00" enabled="1"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control rubberband="0" hideabout="1" lockedmouse="0" sensitivity="8" lockedwheel="0" simulatemass="1" speedwheel="1" invertwheel="0" lockedkeyboard="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="0" dblclickfullscreen="0" contextprojections="0">
-      <menulink text="Created by Gerard Slee" url=""/>
+      <menulink text="Create your own VRTour" url="https://vrtours.github.io/"/>
     </control>
   </panorama>
   <panorama hideabout="1" id="node100">
@@ -3405,7 +3405,7 @@
     <flyintransition speed="1.00" enabled="1"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control rubberband="0" hideabout="1" lockedmouse="0" sensitivity="8" lockedwheel="0" simulatemass="1" speedwheel="1" invertwheel="0" lockedkeyboard="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="0" dblclickfullscreen="0" contextprojections="0">
-      <menulink text="Created by Gerard Slee" url=""/>
+      <menulink text="Create your own VRTour" url="https://vrtours.github.io/"/>
     </control>
   </panorama>
   <masternode>

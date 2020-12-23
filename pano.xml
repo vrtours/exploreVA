@@ -447,7 +447,7 @@
     </control>
   </panorama>
   <panorama hideabout="1" id="node11">
-    <input height="1920" levelbiashidpi="1.000" levelingpitch="1" width="1920" overlap="1" levelbias="0.400" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingroll="0">
+    <input height="1920" levelbiashidpi="1.000" levelingpitch="0" width="1920" overlap="1" levelbias="0.400" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingroll="-1">
       <level preload="0" height="1920" width="1920" predecode="0"/>
       <level preload="0" height="960" width="960" predecode="0"/>
       <level preload="1" height="480" width="480" predecode="1"/>

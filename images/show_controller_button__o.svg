@@ -1,26 +1,26 @@
 <?xml version='1.0' encoding='utf-8'?>
 <!DOCTYPE svg PUBLIC '-//W3C//DTD SVG 1.1//EN' 'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
 <!-- Garden Gnome Software - Skin Buttons -->
-<svg xml:space="preserve" xmlns:x="http://ns.adobe.com/Extensibility/1.0/" height="32px" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px" xmlns:i="http://ns.adobe.com/AdobeIllustrator/10.0/" width="32px" x="0px" viewBox="-3566 -2571.333 32 32" xmlns="http://www.w3.org/2000/svg" enable-background="new -3566 -2571.333 32 32" xmlns:graph="http://ns.adobe.com/Graphs/1.0/" version="1.1" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/">
+<svg xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/" xmlns:xlink="http://www.w3.org/1999/xlink" width="32px" xml:space="preserve" xmlns:x="http://ns.adobe.com/Extensibility/1.0/" xmlns:i="http://ns.adobe.com/AdobeIllustrator/10.0/" enable-background="new -3566 -2571.333 32 32" xmlns="http://www.w3.org/2000/svg" version="1.1" y="0px" x="0px" viewBox="-3566 -2571.333 32 32" height="32px" xmlns:graph="http://ns.adobe.com/Graphs/1.0/">
  <g id="Layer_1"/>
  <g id="Ebene_1"/>
  <g id="Layer_2">
   <g>
    <g>
-    <circle opacity="0.4" a:adobe-blending-mode="multiply" fill="none" cy="-2555.709" stroke="#000000" stroke-width="1.5" r="3.036" cx="-3560.266"/>
-    <circle fill="#ffffff" cy="-2555.709" fill-opacity="1" r="3.036" cx="-3560.266"/>
-    <circle fill="none" cy="-2555.709" stroke="#000000" stroke-width="0.2" r="3.036" cx="-3560.266"/>
+    <circle stroke="#000000" a:adobe-blending-mode="multiply" stroke-width="1.5" opacity="0.4" cy="-2555.709" cx="-3560.266" r="3.036" fill="none"/>
+    <circle fill-opacity="1" cy="-2555.709" cx="-3560.266" r="3.036" fill="#ffffff"/>
+    <circle stroke="#000000" stroke-width="0.2" cy="-2555.709" cx="-3560.266" r="3.036" fill="none"/>
    </g>
    <g>
-    <circle opacity="0.4" a:adobe-blending-mode="multiply" fill="none" cy="-2555.709" stroke="#000000" stroke-width="1.5" r="3.036" cx="-3539.733"/>
-    <circle fill="#ffffff" cy="-2555.709" fill-opacity="1" r="3.036" cx="-3539.733"/>
-    <circle fill="none" cy="-2555.709" stroke="#000000" stroke-width="0.2" r="3.036" cx="-3539.733"/>
+    <circle stroke="#000000" a:adobe-blending-mode="multiply" stroke-width="1.5" opacity="0.4" cy="-2555.709" cx="-3539.733" r="3.036" fill="none"/>
+    <circle fill-opacity="1" cy="-2555.709" cx="-3539.733" r="3.036" fill="#ffffff"/>
+    <circle stroke="#000000" stroke-width="0.2" cy="-2555.709" cx="-3539.733" r="3.036" fill="none"/>
    </g>
   </g>
   <g>
-   <circle opacity="0.4" a:adobe-blending-mode="multiply" fill="none" cy="-2555.709" stroke="#000000" stroke-width="1.5" r="3.036" cx="-3550"/>
-   <circle fill="#ffffff" cy="-2555.709" fill-opacity="1" r="3.036" cx="-3550"/>
-   <circle fill="none" cy="-2555.709" stroke="#000000" stroke-width="0.2" r="3.036" cx="-3550"/>
+   <circle stroke="#000000" a:adobe-blending-mode="multiply" stroke-width="1.5" opacity="0.4" cy="-2555.709" cx="-3550" r="3.036" fill="none"/>
+   <circle fill-opacity="1" cy="-2555.709" cx="-3550" r="3.036" fill="#ffffff"/>
+   <circle stroke="#000000" stroke-width="0.2" cy="-2555.709" cx="-3550" r="3.036" fill="none"/>
   </g>
  </g>
 </svg>
